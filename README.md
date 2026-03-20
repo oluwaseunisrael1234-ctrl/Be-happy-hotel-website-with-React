@@ -1,12 +1,11 @@
 # Deja Vu Hotel & Suites — React Clone
 
-A complete, pixel-faithful React rebuild of [dejavuhotelandsuites.org](https://dejavuhotelandsuites.org/)
+A complete, pixel-faithful React rebuild of Be Happy Hotel and Suites
 
 ---
 
 ## 🏨 Site Analysis
 
-**Original website:** Deja Vu Hotel and Suites — Ocho Rios, Jamaica  
 **Style:** Luxury boutique hotel with gold/dark color scheme, serif headings, clean layouts
 
 ### Pages Identified & Rebuilt
@@ -32,7 +31,7 @@ A complete, pixel-faithful React rebuild of [dejavuhotelandsuites.org](https://d
 
 ```bash
 # 1. Navigate to project
-cd dejavu-hotel-suites
+cd be happy-hotel-suites
 
 # 2. Install dependencies
 npm install
