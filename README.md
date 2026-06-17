@@ -1,4 +1,4 @@
-# Deja Vu Hotel & Suites — React Clone
+#Be Happie Hotel & Suites — React
 
 A complete, pixel-faithful React rebuild of Be Happy Hotel and Suites
 
